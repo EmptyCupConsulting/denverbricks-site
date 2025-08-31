@@ -1,3 +1,4 @@
+# _data/navigation.yml
 main:
   - title: "Home"
     url: /
@@ -11,10 +12,13 @@ main:
         url: /resources/
       - title: "Recordings"
         url: https://youtube.com/@denver_bricks
+        target: _blank
       - title: "LinkedIn Group"
         url: https://www.linkedin.com/groups/14811090
+        target: _blank
       - title: "Call for Speakers"
         url: https://sessionize.com/denverbricks-colorado-databricks-user
+        target: _blank
   - title: "Get Involved"
     children:
       - title: "Call for Speakers"
