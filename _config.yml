@@ -17,6 +17,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
 
 # --- LOCALE ---
 minimal_mistakes_skin: "default" # options: default, air, contrast, dark, dirt, neon, mint, sunrise
