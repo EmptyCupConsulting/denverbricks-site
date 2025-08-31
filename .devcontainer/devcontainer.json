@@ -1,0 +1,29 @@
+{
+  "name": "Jekyll GitHub Pages",
+  "image": "mcr.microsoft.com/devcontainers/ruby:3.3",
+
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {},
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+
+  "postCreateCommand": "bundle install",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "shopify.ruby-lsp",
+        "rebornix.ruby",
+        "bung87.rails"
+      ]
+    }
+  },
+
+  "forwardPorts": [4000],
+  "portsAttributes": {
+    "4000": {
+      "label": "Jekyll site",
+      "onAutoForward": "openBrowser"
+    }
+  }
+}
