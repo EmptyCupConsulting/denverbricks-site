@@ -28,6 +28,13 @@
       "command": "make update",
       "group": "none",
       "problemMatcher": []
+    },
+    {
+      "label": "Jekyll: stop",
+      "type": "shell",
+      "command": "bash -lc 'pkill -f \"jekyll serve\" || true; for p in 4000 35729; do if lsof -t -i:$$p >/dev/null 2>&1; then kill -9 $(lsof -t -i:$$p); fi; done'",
+      "group": "none",
+      "problemMatcher": []
     }
   ]
 }
