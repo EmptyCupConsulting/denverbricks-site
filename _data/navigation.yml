@@ -1,13 +1,10 @@
-# _data/navigation.yml
 main:
   - title: "Home"
     url: /
   - title: "Events"
     url: /events/
-  - title: "Blog"
-    url: /blog/
   - title: "Resources"
-    url: /resources/         # <- add a landing page URL
+    url: /resources/
     children:
       - title: "Resources Home"
         url: /resources/
@@ -20,8 +17,10 @@ main:
       - title: "Call for Speakers"
         url: https://sessionize.com/denverbricks-colorado-databricks-user
         target: _blank
+  - title: "Blog"
+    url: /blog/
   - title: "Get Involved"
-    url: /get-involved/       # <- add a landing page URL
+    url: /get-involved/
     children:
       - title: "Call for Speakers"
         url: /call-for-speakers/
@@ -31,7 +30,8 @@ main:
         url: /sponsors/
   - title: "About"
     url: /about/
-  - title: "Code of Conduct"
-    url: /code-of-conduct/
+    children:
+      - title: "Code of Conduct"
+        url: /code-of-conduct/
   - title: "Contact"
     url: /contact/
