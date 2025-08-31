@@ -7,6 +7,7 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "Resources"
+    url: /resources/         # <- add a landing page URL
     children:
       - title: "Resources Home"
         url: /resources/
@@ -20,6 +21,7 @@ main:
         url: https://sessionize.com/denverbricks-colorado-databricks-user
         target: _blank
   - title: "Get Involved"
+    url: /get-involved/       # <- add a landing page URL
     children:
       - title: "Call for Speakers"
         url: /call-for-speakers/
@@ -33,4 +35,3 @@ main:
     url: /code-of-conduct/
   - title: "Contact"
     url: /contact/
-

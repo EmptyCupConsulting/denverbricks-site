@@ -1,5 +1,5 @@
 ---
-title: "Starter Guide & Resources"
+title: "Resources"
 layout: single
 permalink: /resources/
 toc: true
