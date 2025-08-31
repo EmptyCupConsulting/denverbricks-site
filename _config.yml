@@ -1,12 +1,12 @@
 # Site settings
-title: "My Site"
-email: your-email@example.com
+title: "DenverBricks.org"
+email: infor@denverbricks.org
 description: >- # this means to ignore newlines until "baseurl:"
-  A brand new GitHub Pages site using the Minimal Mistakes theme.
+  The DenverBricks (also referred to as Colorado DataBricks) user group is a new community initiative designed to bring together all users of the Databricks platform—data engineers, data scientists, analysts, architects, and AI/ML practitioners—from across Colorado.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # your GitHub Pages URL
-twitter_username: your_twitter
-github_username: yourusername
+url: "https://emptycupconsulting.github.io" # your GitHub Pages URL
+twitter_username: denver_bricks
+github_username: 
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@latest"
@@ -21,16 +21,22 @@ timezone: "America/Denver"
 
 # Author settings
 author:
-  name: "Your Name"
+  name: "DenverBricks"
   avatar: "/assets/images/avatar.jpg"
   bio: "A short bio about yourself."
   links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/yourusername"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/groups/14811090"
     - label: "Twitter"
       icon: "fab fa-twitter"
-      url: "https://twitter.com/your_twitter"
+      url: "https://twitter.com/denver_bricks"
+  - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://instagram.com/denverbricks"
+  - label: "YouTube"
+      icon: "fab fa-youtube"
+      url: "https://youtube.com/@denver_bricks"
 
 # Navigation
 defaults:
