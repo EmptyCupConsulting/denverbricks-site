@@ -1,0 +1,33 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Jekyll: serve",
+      "type": "shell",
+      "command": "make serve",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Jekyll: build",
+      "type": "shell",
+      "command": "make build",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Jekyll: clean",
+      "type": "shell",
+      "command": "make clean",
+      "group": "none",
+      "problemMatcher": []
+    },
+    {
+      "label": "Jekyll: update gems",
+      "type": "shell",
+      "command": "make update",
+      "group": "none",
+      "problemMatcher": []
+    }
+  ]
+}
