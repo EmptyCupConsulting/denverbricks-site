@@ -1,29 +1,33 @@
-# Site settings
+# --- SITE SETTINGS ---
 title: "DenverBricks.org"
-email: infor@denverbricks.org
-description: >- # this means to ignore newlines until "baseurl:"
-  The DenverBricks (also referred to as Colorado DataBricks) user group is a new community initiative designed to bring together all users of the Databricks platform—data engineers, data scientists, analysts, architects, and AI/ML practitioners—from across Colorado.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://emptycupconsulting.github.io" # your GitHub Pages URL
-twitter_username: denver_bricks
-github_username: 
+email: info@denverbricks.org
+description: >-
+  The DenverBricks (also referred to as Colorado DataBricks) user group is a new community initiative
+  designed to bring together all users of the Databricks platform—data engineers, data scientists,
+  analysts, architects, and AI/ML practitioners—from across Colorado.
 
-# Build settings
+# Use your custom domain
+url: "https://denverbricks.org"
+baseurl: "" # always empty with a custom domain
+
+logo: "/assets/images/denver-bricks-logo.png"
+
+# --- THEME & BUILD ---
 remote_theme: "mmistakes/minimal-mistakes@latest"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Minimal Mistakes settings
+# --- LOCALE ---
 minimal_mistakes_skin: "default" # options: default, air, contrast, dark, dirt, neon, mint, sunrise
 locale: "en-US"
 timezone: "America/Denver"
 
-# Author settings
+# --- AUTHOR SETTINGS ---
 author:
   name: "DenverBricks"
   avatar: "/assets/images/avatar.jpg"
-  bio: "A short bio about yourself."
+  bio: "Building community, one brick at a time."
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
@@ -31,14 +35,24 @@ author:
     - label: "Twitter"
       icon: "fab fa-twitter"
       url: "https://twitter.com/denver_bricks"
-  - label: "Instagram"
+    - label: "Instagram"
       icon: "fab fa-instagram"
       url: "https://instagram.com/denverbricks"
-  - label: "YouTube"
+    - label: "YouTube"
       icon: "fab fa-youtube"
       url: "https://youtube.com/@denver_bricks"
 
-# Navigation
+# For SEO/social sharing (jekyll-seo-tag)
+social:
+  name: "DenverBricks"
+  links:
+    - "https://twitter.com/denver_bricks"
+    - "https://github.com/EmptyCupConsulting"
+    - "https://www.linkedin.com/groups/14811090"
+    - "https://instagram.com/denverbricks"
+    - "https://youtube.com/@denver_bricks"
+
+# --- NAVIGATION DEFAULTS ---
 defaults:
   - scope:
       path: ""
@@ -50,8 +64,17 @@ defaults:
       comments: false
       share: true
       related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
-# Exclude
+# --- PERMALINKS (cleaner blog URLs) ---
+permalink: /:categories/:title/
+
+# --- EXCLUDE (don’t build these) ---
 exclude:
   - Gemfile
   - Gemfile.lock
