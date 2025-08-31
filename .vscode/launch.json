@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch Jekyll (serve)",
+      "type": "pwa-node",
+      "request": "launch",
+      "command": "make serve",
+      "console": "integratedTerminal",
+      "serverReadyAction": {
+        "pattern": "Server running.*?(https?://[^\"]+)",
+        "uriFormat": "%s",
+        "action": "openExternally"
+      }
+    }
+  ]
+}
