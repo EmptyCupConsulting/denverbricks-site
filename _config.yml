@@ -1,4 +1,4 @@
-# --- SITE SETTINGS ---
+er-bricks# --- SITE SETTINGS ---
 title: "DenverBricks.org"
 email: info@denverbricks.org
 description: >-
@@ -27,7 +27,7 @@ timezone: "America/Denver"
 # --- AUTHOR SETTINGS ---
 author:
   name: "DenverBricks"
-  avatar: "/assets/images/avatar.jpg"
+  avatar: "/assets/images/denver-bricks-logo.png"
   bio: "Building community, one brick at a time."
   links:
     - label: "LinkedIn"
