@@ -35,6 +35,20 @@
       "command": "bash -lc 'pkill -f \"jekyll serve\" || true; for p in 4000 35729; do if lsof -t -i:$$p >/dev/null 2>&1; then kill -9 $(lsof -t -i:$$p); fi; done'",
       "group": "none",
       "problemMatcher": []
+    },
+    {
+      "label": "Maintenance: ON (fallback index.html)",
+      "type": "shell",
+      "command": "make maintenance_on",
+      "group": "none",
+      "problemMatcher": []
+    },
+    {
+      "label": "Maintenance: OFF (restore Jekyll)",
+      "type": "shell",
+      "command": "make maintenance_off",
+      "group": "none",
+      "problemMatcher": []
     }
   ]
 }
