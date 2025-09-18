@@ -16,5 +16,5 @@ A curated set of links for Databricks users in Colorado.
 
 ### Community
 - **Recordings:** [YouTube @denver_bricks](https://youtube.com/@denver_bricks)
-- **LinkedIn Group:** https://www.linkedin.com/groups/14811090
-- **Call for Speakers:** [/call-for-speakers/](/call-for-speakers/)
+- **LinkedIn Group:** [LinkedIn](https://www.linkedin.com/groups/14811090)
+- **Call for Speakers:** [Call For Speakers](/call-for-speakers/)
