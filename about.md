@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 classes: wide
 ---
-
+![denverbricks.org Banner - Connect and learn](/assets/images/denverbricks-banner-cartoon.png "denverbricks.org Banner - Connect and learn")
 *A community for all Databricks users in Colorado*
 
 ## Purpose & Scope
