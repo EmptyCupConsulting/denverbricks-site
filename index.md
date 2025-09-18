@@ -3,4 +3,4 @@ layout: home
 author_profile: true
 ---
 
-Welcome to my new site built with the **Minimal Mistakes** Jekyll theme!
+[![Denver Bricks Logo](/assets/images/denverbricks_linkedin_banner_1584x396.png)](https://denverbricks.org)
