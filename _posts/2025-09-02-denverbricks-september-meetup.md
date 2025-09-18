@@ -49,5 +49,5 @@ Whether you’re new to Databricks or a seasoned data professional, this is a ch
 Follow us on social for updates:  
 - LinkedIn: [DenverBricks](https://www.linkedin.com/groups/14811090)
 - Databricks Community: [DenverBricks](https://community.databricks.com/t5/denverbricks/gh-p/DenverBricks)
-- X (Twitter): [@DenverBricks](https://x.com/DenverBricks)
+- X (Twitter): [@Denver_Bricks](https://x.com/@Denver_Bricks)
 - IG: [@DenverBricks](https://www.instagram.com/denverbricks/)
