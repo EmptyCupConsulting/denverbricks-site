@@ -147,12 +147,22 @@ Please contact us at **[info@denverbricks.org](mailto:info@denverbricks.org)** f
 
 ## About the Organizers
 
-### Jason Horner — Owner and SME
-My name is **Jason Horner**, and I have been attending and leading user groups in the Denver area since 2000. I’m an independent consultant, primarily working with Azure tools to deliver BI and advanced analytics solutions. Over the years, I’ve delivered and contributed to several Databricks projects—while Databricks is currently a smaller part of my consulting practice, I want to deepen my engagement with the platform and community.
+### Jason Horner — Lead Dis-Organizer
+My name is **Jason Horner**, and I have been attending and leading user groups in the Denver area since 2000. I’m an independent consultant at [Empty Cup Consulting LLC](#), primarily working with Azure tools to deliver BI and advanced analytics solutions. Over the years, I’ve delivered and contributed to several Databricks projects—while Databricks is currently a smaller part of my consulting practice, I want to deepen my engagement with the platform and community.
 
-In addition to consulting, I provide and deliver training independently and as a subcontractor for Microsoft, and I occasionally work on exam development. I currently serve on the local **DAMA Rocky Mountain Chapter (DAMA-RMC)** board as the **VP of Professional Development**, where I am responsible for delivering our CDMP certification study groups.
+In addition to consulting, I provide and deliver training independently and as a subcontractor for Microsoft, and I occasionally work on exam development. I currently serve on the local **DAMA Rocky Mountain Chapter ([DAMA-RMC](damarmc.org))** board as the **[VP of Professional Development](mailto:ProfessionalDevelopmentVP@damarmc.org)**, where I am responsible for delivering our CDMP certification study groups.
 
 My main interest in running this group is to stay more connected to the Databricks ecosystem, learn from peers, and help foster a vibrant local community.
 
 ### Co-Organizers
 TBD
+
+## Become a Co-Organizer 🙌
+
+Denver Bricks is a community effort — and we’re always looking for volunteers and co-organizers to help make our meetups even better.  
+
+Why not you?  
+
+Whether you can lend a hand with logistics, outreach, content, or just want to be more involved in the local data community, we’d love to have you on the team.  
+
+👉 Interested? Drop us a line at **[info@denverbricks.org](mailto:info@denverbricks.org?subject=Co-Organizer%20Interest)**  
