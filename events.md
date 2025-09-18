@@ -5,7 +5,7 @@ permalink: /events/
 toc: true
 toc_sticky: true
 ---
-
+![denverbricks.org Banner - Connect and learn](/assets/images/denverbricks-banner-simple.png "denverbricks.org Banner - Connect and learn")
 > **Upcoming events** will appear here. Until then, join our [LinkedIn Group](https://www.linkedin.com/groups/14811090) for updates.
 
 ### Next Event: Denver Bricks September Meetup 🎉
